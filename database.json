@@ -1,0 +1,47 @@
+{
+  "898878830729658408": {
+    "wins": 5,
+    "losses": 3,
+    "coins": 265,
+    "inventory": {
+      "kacamata": 2,
+      "radar": 0,
+      "kopi": 0
+    }
+  },
+  "887969870413709333": {
+    "wins": 3,
+    "losses": 5,
+    "coins": 275,
+    "inventory": {
+      "kacamata": 0,
+      "radar": 0,
+      "kopi": 0
+    }
+  },
+  "409666931939868673": {
+    "wins": 2,
+    "losses": 5,
+    "coins": 175,
+    "inventory": {
+      "kacamata": 0,
+      "radar": 0,
+      "kopi": 0
+    }
+  },
+  "639805993848406017": {
+    "wins": 0,
+    "losses": 1,
+    "coins": 5
+  },
+  "1431977811878482095": {
+    "wins": 0,
+    "losses": 1,
+    "coins": 5,
+    "inventory": {
+      "kacamata": 0,
+      "radar": 0,
+      "kopi": 0
+    }
+  }
+}
